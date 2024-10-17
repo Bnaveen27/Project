@@ -1,4 +1,4 @@
-.menu{
+/* .menu{
     margin: auto;
 }
 .nav-item:hover{
@@ -32,7 +32,7 @@
     margin-left: -50px;
     color:black;
 }
-/* .carouselslider button{
+.carouselslider button{
     margin-left: -364px;
     border-radius: 10px;
     padding: 10px 15px 10px 15px;
@@ -40,7 +40,7 @@
     color: white;
     font-weight: bold;
     margin-top: 60px;
-} */
+}
  .banner-btn{
      border-radius: 10px;
     padding: 10px 15px 10px 15px;
@@ -94,7 +94,7 @@ margin-left: -40px;
 }
 .im-1{
     clip-path: circle(30%);
-    /* padding-bottom: 50px; */
+    padding-bottom: 50px;
 }
 .container-mid .img-colle{
     margin-top: 30px;
@@ -242,7 +242,7 @@ input.email{
     }
     .im-1{
         clip-path: circle(30%);
-        /* padding-bottom: 50px; */
+        padding-bottom: 50px;
 
     }
     .container-bottom .contactus{
@@ -253,4 +253,4 @@ input.email{
     }
 }
     
-
+ */
